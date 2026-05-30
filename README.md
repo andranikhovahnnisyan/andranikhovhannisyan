@@ -49,6 +49,7 @@ Welcome to my digital space! I am blending code, 3D art, and design to build nex
 ---
 
 ### 🌐 Connect with me / Watch my work:
-[![YouTube](https://shields.io)](https://www.youtube.com/@AndranikHovhannisyan-l2z)
+* 📺 **[My YouTube Channel](https://www.youtube.com/@AndranikHovhannisyan-l2z)** — *Check out my video edits and creative projects!*
+
 
 

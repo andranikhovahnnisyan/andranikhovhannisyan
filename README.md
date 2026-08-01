@@ -1,55 +1,34 @@
-# Welcome to Andranik's tech world! 🚀
+# Hi there, I'm Andranik! 👋 🚀
 
-### 🇦🇲 15-year-old Future Creative Technologist from an Armenian village
+### 🇦🇲 16-Year-Old Web Frontend & 3D Developer from Armenia
 
-Welcome to my digital space! I am blending code, 3D art, and design to build next-generation web experiences. 
-
----
-
-### 🧠 My Creative Philosophy & Superpowers:
-
-* **100% Self-Taught:** I learned **Blender, Figma, and CapCut completely by myself at home**, with zero teachers or courses. Just pure passion, focus, and hard work! 🏠💻
-* **Empathy-Driven Creator:** I have deep empathy for animals, babies, and especially kittens 🐈🐾. This connection stops me from ever making dry, boring, or flat 2D websites. I create to bring warmth and life into the digital world.
-* **Connecting Opposite Worlds:** I am completely fearless when it comes to imagination. Flying airplanes driving down village roads? Tech giants fighting MMA matches on my village streets? I dare to visualize and build what others think is impossible 🤖💥.
+I am a self-taught developer blending modern frontend code with 3D environments to build next-generation, immersive web experiences. I love creating interactive digital worlds directly inside the browser.
 
 ---
 
-### 💻 Current Skillset:
+### 💻 My Core Stack
 
-* **HTML5** 
-  `99%`
-* **CapCut (Video Editing)** 
-   `75%` *(Self-Taught 👑)*
-* **Figma (Design)** 
-   `45%` *(Self-Taught 👑)*
-* **Blender (3D)** 
-   `35%` *(Self-Taught 👑)*
-* **CSS3** 
-   `20%`
-* **JavaScript** 
-   `0%` *(Haven't reached the JS course yet, but starting soon!)*
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend Core** | `HTML5` `CSS3` `JavaScript (ES6+)` |
+| **3D & Graphics** | `Three.js` `WebGL` |
+| **Asset Creation** | `Blender` *(Modeling, Shading, Texturing)* |
+| **Workflow** | `Git` `GitHub` |
 
 ---
 
-### 🏎️ Current Epic Project:
-* **Project GODZILLA:** I am modeling a legendary **Nissan GT-R R35** in Blender and building a custom web project to bring this 3D beast into the browser! 🛠️🔥
+### 🧠 Creative Philosophy
+
+- **100% Self-Taught:** Driven by pure focus, curiosity, and relentless home study. 🏠💻
+- **Dynamic Interaction:** Bridging flat 2D user interfaces with responsive 3D spaces.
+- **Fearless Imagination:** Bringing impossible layouts and bold concepts to reality.
 
 ---
 
-### 🎯 Next Massive Milestone:
-* As soon as I unlock JavaScript, I am launching straight into **Three.js** to render my 3D models interactively on the web! 🚀🌐
+### 📈 Current Milestone
+> "Mastering native JavaScript logic and 3D coordinate math frame-by-frame today, to build high-end production pipelines tomorrow."
 
 ---
 
-### 🎯 Ultimate Dream:
-* Own a real Nissan GT-R R35 Godzilla and rule the tech world! 🇯🇵💨
-
-⚡ *"The best way to predict the future is to create it."*
-
----
-
-### 🌐 Connect with me / Watch my work:
-* 📺 **[My YouTube Channel](https://www.youtube.com/@AndranikHovhannisyan-l2z)** — *Check out my video edits and creative projects!*
-
-
-
+### 🌐 Connect / Watch My Work
+* 📺 **[My YouTube Channel](https://youtube.com)** — *Check out my video updates and creative progress!*

@@ -31,4 +31,4 @@ I am a self-taught developer blending modern frontend code with 3D environments 
 ---
 
 ### 🌐 Connect / Watch My Work
-* 📺 **[My YouTube Channel](https://youtube.com)** — *Check out my video updates and creative progress!*
+* 📺 **[My YouTube Channel](https://www.youtube.com/@AndranikHovhannisyan-l2z)** — *Check out my video updates and creative progress!*
